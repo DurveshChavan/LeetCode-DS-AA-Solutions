@@ -7,10 +7,10 @@ This repository contains solutions to **LeetCode** problems categorized by **Dat
 
 ## 📂 Folder Structure
 
-    /LeetCode-DS&AA-Solutions
-    │── /Trees
-        │── /114. Flatten Binary Tree to Linked List
-    │── README.md
+- `/LeetCode-DSAA-Solutions/`
+  - `/Trees/`
+    - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+  - `README.md`
 
 
 Each folder contains solutions related to that **DSA topic**, written in **C++** .
