@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions for Data Structures & Algorithms Analysis (DSAA)
+# 🚀 LeetCode Solutions for Data Structures & Algorithms Analysis (DS&AA)
 
 ## 📌 Overview
 This repository contains solutions to **LeetCode** problems categorized by **Data Structures and Algorithms**. The goal is to practice and improve problem-solving skills in **DSA** using efficient coding techniques.
@@ -7,9 +7,13 @@ This repository contains solutions to **LeetCode** problems categorized by **Dat
 
 ## 📂 Folder Structure
 
-    /LeetCode-DSAA-Solutions │── /Arrays │── /LinkedList │── /Stacks │── /Queues │── /Trees │── /Graphs │── /DynamicProgramming │── /SortingSearching │── /BitManipulation │── README.md
+    /LeetCode-DS&AA-Solutions
+    │── /Trees
+        │── /114. Flatten Binary Tree to Linked List
+    │── README.md
 
-Each folder contains solutions related to that **DSA topic**, written in **C++** (or any preferred language).
+
+Each folder contains solutions related to that **DSA topic**, written in **C++** .
 
 ---
 
