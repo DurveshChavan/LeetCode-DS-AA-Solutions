@@ -26,6 +26,13 @@ Each folder contains solutions related to that **DSA topic**, written in **C++**
 
 ---
 
+## 📜 How to Contribute
+Want to contribute? Follow these steps:
+1. **Fork** this repository.
+2. Add your solution in the correct **category folder**.
+3. **Submit a Pull Request** (PR).
+
+---
 
 ## 🔗 Useful Resources
 - [LeetCode](https://leetcode.com/)
