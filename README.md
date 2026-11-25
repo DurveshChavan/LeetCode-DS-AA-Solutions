@@ -50,6 +50,7 @@ Happy Coding! 🚀🔥
 | [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
 | [35. Search Insert Position](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/35.%20Search%20Insert%20Position) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+| [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
 | [704. Binary Search](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/704.%20Binary%20Search) |
 | [852. Peak Index in a Mountain Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array) |
 | [2226. Maximum Candies Allocated to K Children](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children) |
@@ -58,6 +59,7 @@ Happy Coding! 🚀🔥
 | ------- |
 | [35. Search Insert Position](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/35.%20Search%20Insert%20Position) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+| [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
 | [704. Binary Search](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/704.%20Binary%20Search) |
 | [852. Peak Index in a Mountain Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array) |
 | [2226. Maximum Candies Allocated to K Children](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children) |
@@ -90,6 +92,7 @@ Happy Coding! 🚀🔥
 | [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
 | [125. Valid Palindrome](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/125.%20Valid%20Palindrome) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+| [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
 ## String
 |  |
 | ------- |
@@ -98,4 +101,9 @@ Happy Coding! 🚀🔥
 |  |
 | ------- |
 | [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+| [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
+## Greedy
+|  |
+| ------- |
+| [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
 <!---LeetCode Topics End-->
