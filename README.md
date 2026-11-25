@@ -48,6 +48,7 @@ Happy Coding! 🚀🔥
 |  |
 | ------- |
 | [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+| [26. Remove Duplicates from Sorted Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array) |
 | [35. Search Insert Position](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/35.%20Search%20Insert%20Position) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
 | [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀🔥
 |  |
 | ------- |
 | [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+| [26. Remove Duplicates from Sorted Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array) |
 | [125. Valid Palindrome](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/125.%20Valid%20Palindrome) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
 | [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
