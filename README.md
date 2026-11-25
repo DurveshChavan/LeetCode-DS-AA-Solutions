@@ -41,3 +41,61 @@ Want to contribute? Follow these steps:
 - [C++ STL Documentation](https://cplusplus.com/reference/stl/)
 
 Happy Coding! 🚀🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+| [35. Search Insert Position](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/35.%20Search%20Insert%20Position) |
+| [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+| [704. Binary Search](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/704.%20Binary%20Search) |
+| [852. Peak Index in a Mountain Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array) |
+| [2226. Maximum Candies Allocated to K Children](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children) |
+## Binary Search
+|  |
+| ------- |
+| [35. Search Insert Position](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/35.%20Search%20Insert%20Position) |
+| [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+| [704. Binary Search](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/704.%20Binary%20Search) |
+| [852. Peak Index in a Mountain Array](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array) |
+| [2226. Maximum Candies Allocated to K Children](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children) |
+## Linked List
+|  |
+| ------- |
+| [114. Flatten Binary Tree to Linked List](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List) |
+## Stack
+|  |
+| ------- |
+| [114. Flatten Binary Tree to Linked List](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List) |
+## Tree
+|  |
+| ------- |
+| [114. Flatten Binary Tree to Linked List](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List) |
+| [543. Diameter of Binary Tree](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/543.%20Diameter%20of%20Binary%20Tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [114. Flatten Binary Tree to Linked List](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List) |
+| [543. Diameter of Binary Tree](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/543.%20Diameter%20of%20Binary%20Tree) |
+## Binary Tree
+|  |
+| ------- |
+| [114. Flatten Binary Tree to Linked List](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List) |
+| [543. Diameter of Binary Tree](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Trees/543.%20Diameter%20of%20Binary%20Tree) |
+## Two Pointers
+|  |
+| ------- |
+| [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+| [125. Valid Palindrome](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/125.%20Valid%20Palindrome) |
+| [167. Two Sum II - Input Array Is Sorted](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) |
+## String
+|  |
+| ------- |
+| [125. Valid Palindrome](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/125.%20Valid%20Palindrome) |
+## Sorting
+|  |
+| ------- |
+| [15. 3Sum](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Two-Pointers/15.%203Sum) |
+<!---LeetCode Topics End-->
