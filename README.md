@@ -111,4 +111,8 @@ Happy Coding! 🚀🔥
 |  |
 | ------- |
 | [611. Valid Triangle Number](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Binary-Search/611.%20Valid%20Triangle%20Number) |
+## Math
+|  |
+| ------- |
+| [2235. Add Two Integers](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Math/2235.%20Add%20Two%20Integers) |
 <!---LeetCode Topics End-->
