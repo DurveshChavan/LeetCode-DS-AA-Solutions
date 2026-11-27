@@ -116,5 +116,10 @@ Happy Coding! 🚀🔥
 ## Math
 |  |
 | ------- |
+| [1342. Number of Steps to Reduce a Number to Zero](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Math/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) |
 | [2235. Add Two Integers](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Math/2235.%20Add%20Two%20Integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342. Number of Steps to Reduce a Number to Zero](https://github.com/DurveshChavan/LeetCode-DS-AA-Solutions/tree/main/Math/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) |
 <!---LeetCode Topics End-->
